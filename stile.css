@@ -1,0 +1,22 @@
+h1 {
+	color: blue;
+	margin-left: 20px;
+}
+title1 {
+	color: red;
+	font-size: 30px;
+	margin-left: 20px;
+}
+desc {
+	color: black;
+	font-size: 15px;
+	margin-left: 200px;
+}
+desc2 {
+	color: black;
+	font-size: 15px;
+}
+data {
+	color: #e68a00;
+	font-size: 15px;
+}
